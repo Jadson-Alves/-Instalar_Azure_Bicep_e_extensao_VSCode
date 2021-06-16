@@ -1,0 +1,1 @@
+# -Instalar_Azure_Bicep_e_extensao_VSCode
